@@ -1,0 +1,733 @@
+"Guid","Comments","Description","IsEscalated","Origin","ParentId","Priority","Reason","Status","Subject","SuppliedCompany","SuppliedEmail","SuppliedName","SuppliedPhone","TestPickList__c","TestURLCase__c","Test_picklist__c","Type"
+007e45b7-e205-4b25-9d11-15dfb0f436e7,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+00bf09db-62f4-43b1-965a-61bf58835311,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+00f690dd-469b-462c-b92e-4cde1e161595,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+00f815bb-bf79-4feb-a5bc-1b90d1ed7454,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+016099f1-e215-49a2-bf70-43eb3e2aedb0,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+0160d8bb-7ffd-454e-a719-ecbd4fdc7401,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+029dee38-5254-4759-b472-1ce18f246ec5,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+0315bdd6-e624-44ec-89e6-fd86e0ed2983,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+03b259a6-c48c-4333-979f-9c1412ea0875,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+041c92c7-98ab-44df-9aed-7f8f90a2f11b,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+04347e55-316b-4f0e-b353-793adce3469e,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+053bf138-4dea-470e-a5ad-e77c8804bd15,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+056d2f3d-f5cd-497c-a0ac-009d7f47193e,"#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+058f7885-63d0-4a25-92eb-2e5ba6039ac4,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+05c8b0e1-a424-489d-b0db-1395a522becd,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+05df2855-42e6-4acc-9ab2-1d3e7914d5d5,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+06e268e4-3440-4358-91bd-be5003f6bd06,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+06eb0629-d848-4fff-bb39-bc0c81946dd6,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+07526037-eaf8-491c-8444-9b49523b4698,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+07ce8f54-85db-4381-8f80-c73ef930dd00,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+096b416e-ca6a-4990-a6c0-6b8554cee504,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+0982d624-c745-42ba-882c-66ef3251f460,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+099ac70a-5000-4b1c-b77a-467483f37454,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+09bde5e4-cfb0-4db3-a4b5-12eb23e70f15,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+09d7658a-6472-46e5-bff9-4d9bc9437a17,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+0a1102e1-27b0-481a-a8bb-5346e016ecf7,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+0b5487e6-21d9-43d9-a521-1d50db236029,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+0b9966e0-3154-4cb5-ad1a-44e135f7e86f,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+0c718c2a-a3e3-4d3a-bb72-b58adabaa258,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+0d650b27-929c-4ccf-a1ff-2eff1cd82135,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+0d8cc96a-ca89-4424-8af2-8cc5dafd0837,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+0e20627f-1fb2-4610-b327-914fe30642cc,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+0e771982-08e0-4380-a823-196ca8cd393e,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+0e900b04-6343-4ff7-92db-a8e7642c1bdc,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+0ef6c094-fe7a-4777-a942-b0ae783f0259,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+0f196e9c-229e-4f54-8128-08b9d0ebe414,"#N/A","#N/A",false,Phone,"#N/A",High,Instructions not clear,New,Sample Case 2: The widgets we received are the wrong size.,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+0f69199d-d1c7-44c4-8f55-2760db8c22d0,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+0f6a5493-f1ff-4a69-8b6f-4dfb5b206aa8,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+10208ed5-60aa-4f3e-8c66-573ca655075d,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+10899b6c-2a1d-4554-82fd-396aa57298f8,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+10b5f3dc-50fd-4eeb-b35f-11d8a09210b3,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+11dc8e5a-222f-4753-9408-e6045b2423b8,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+11ebf0f1-faa6-4b44-b543-dab6040a0f20,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+1226d35d-b7f3-4b26-88b7-20556a79deac,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+137b975a-d9e1-4dc6-b3e0-c44bcbfbb3b4,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+139c6c9f-94f4-488c-a923-70a89b820b84,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+13aa5370-5f10-4197-9713-6041ddad8744,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+13b068e5-350a-4d27-b7e9-33701919a6a0,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+13d561b5-2f8d-465e-95fc-fb2d27f67a89,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+14663404-2c99-4ec8-8f57-f96c133d21c5,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+14bdc17a-951e-47ce-afce-d41af40134fa,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+14cd2f0a-9e93-46db-a942-64e6f1e998dc,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+15f85d7f-aed3-4d83-bf9d-555f84b21374,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+161dcdb8-07b9-44ef-8346-1eedc09c6a41,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+162405cb-2485-4c96-9536-eb2b1b4332a5,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+165da03c-3eb6-4369-9322-5dfd75237264,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+173cb45d-5259-442c-86d9-54416cefe530,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+173db111-f68c-4741-a60d-1a4b68749411,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+176fe8a9-c426-4ff4-a204-2936766b651f,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+17e299bb-33eb-4e73-89fa-3db1c580417c,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+1813b75b-d40e-4511-8c52-2fa7563a8dbc,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+18460d26-810e-4949-b8a8-779bb31e6db7,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+1905be8f-ff78-4380-8199-7fe9111113b6,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+19071e4c-3c00-4bd5-a92c-1cc9b44e122c,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+196d1768-b0c2-411a-b7dd-0d391d226519,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+19c2e950-8dca-4668-8e17-fff272234603,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+1a257c69-d3f7-4d0a-9d5a-b0df67949924,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+1b4502f8-054b-4990-8f27-9f1873c98feb,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+1b4f3a98-fd52-44fc-814f-5aff4cc90019,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+1b89a2a5-f715-408c-bcb3-8f493975f8ed,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+1b9365fa-647f-4f10-bf0a-a545636410a4,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+1cd5541e-6898-4193-b468-847e86e874e7,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+1d2b16e5-0cd1-4c3e-adb0-70fc3ada38cc,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+1db86b1b-db30-4c85-9cc5-02ead8dd6b72,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+1ddd3b5a-40fe-4ba1-87c5-f6b6f09a752e,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+1e9b65f0-670f-415f-89b2-98a55d16d7dd,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+1ea9e72c-67b5-4e51-8425-fcd4389e5aba,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+1eac3cc7-feae-4d5d-84ca-e0bdce549abe,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+1ed7e8f5-965f-49ef-a658-a81c40e6a82e,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+1f01b46a-ce79-48d2-8ae9-969d149fcb28,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+1f376df0-4ff0-4cf8-ae39-60afe858adbe,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+1f73d3bd-b506-432f-beb4-67720b2c9d21,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+20beb75a-9315-4dfb-9e1c-1969d4bf846e,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+20dd0eec-2be6-47d2-a836-a4d6bcc31caf,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+2166c795-8f72-4090-849d-f57b59a7cb4c,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+2182e428-1f03-468f-90e8-726d75345264,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+21e71b1d-57c2-443a-aa83-3f0abfceabc9,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+222802a1-4193-4a94-952e-7db5ac217541,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+223d8dec-5ba3-472f-a83c-9879d0f0d0ee,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+22643dd8-081b-4b2a-a3b6-28d4c3e2e970,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+22655bac-72dd-42e0-b3bf-f3ea1cd939c2,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+22e45dbf-b2b6-43e1-9692-c64d3473212d,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+23b07fb5-842d-4f79-86e0-83269dd92ba5,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+23bba181-f5b4-4885-a7b1-e0bf51f95600,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+250ef600-931f-4e4a-a3c6-c61c6bb87933,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+251c3068-68c1-4764-994d-a890e61a5e47,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+25a31b99-8d62-42c6-b54a-e9aa299890c7,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+262950a0-59b1-4e67-b352-b28c797c1f1b,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+27142f22-cfb4-4b6c-8d10-ac75f58a6d2b,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+27509531-c402-4a46-b98a-735bf56abcec,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+278f0b34-6f9a-437d-9f9f-e36661b071f3,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+27a3de4b-763d-4841-ac3c-e89ff09147ab,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+27ad490a-81e2-4038-a3bc-5e63672ce052,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+27afc66e-8baa-40d1-ae23-cd1e8141fc0d,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+2851e4ec-942e-425f-9dd6-f6c0807a21ef,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+285a8c96-0a19-4e6a-8967-5ce73547caf7,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+28a128e9-d9f2-4d86-bb27-215e0b383a0b,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+295bea9f-bc17-4591-9d29-773ea82a8513,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+296a0b26-2733-43ed-b2ee-ce81bac617dc,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+298d1518-72b7-4682-83da-44847bd4a770,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+29ddbb86-9a5c-42d5-b1a6-238185d67024,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+29e6694e-b45e-4e71-981a-977c4f2fbadb,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+2a1058ef-a92f-444a-a45b-1f9aee0b5cfe,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+2a725fd9-5b7c-4764-b3a7-51b7231f5ed7,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+2a9cb0e2-50eb-417e-b7c1-adec2aebae7d,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+2b107d0f-10d0-4812-b342-b8dd5595bd0c,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+2d0e3f38-3d80-4a9e-99a2-86da3cfa71ca,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+2d6009b8-531f-49a1-a91e-7c4a92af2c25,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+2d733916-83a0-4a7f-8c5a-ebf4665903ec,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+2e09674b-b339-444b-a683-18b32ef55391,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+2e35979f-ac92-4bae-857a-6e87a50b5b20,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+2e4452ea-b118-4838-98b2-5c8dc1855336,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+2e7c5be7-7291-4d4b-8405-50cc09bb2902,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+2ee2c2f2-42a8-4757-83c0-8d44ec1ee254,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+2f44d190-39e6-42e3-b786-d811e9ca8f1b,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+2f599548-f673-4a5a-9eb6-ef77c33dddf6,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+2f9da8bb-58f0-47da-aef5-617e1e4f2042,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+30106551-302f-48e1-8812-e33e042be818,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+3028ecf2-6cb0-46f0-abb5-9a205800a0df,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+30388b35-672a-4a1e-959c-b55fd808f6c4,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+304b723a-c31d-4cfd-a617-32bc45e41743,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+314c85f2-aa60-4650-8413-b1f9e809809f,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+31812a8c-414d-4d07-9d82-14c1162b0779,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+31bbe559-bb7d-4fe2-9d15-7ed139c83240,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+31cc1631-95b2-4a2d-bf8e-46740ba32e4f,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+322908e6-0ed0-459b-a1da-ab8c4a2c82b2,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+3251f7bc-2d70-47b9-ba98-b8bb7d17483b,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+32b406ad-e1d0-46ce-bd1b-d134ad084ce6,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+33c1479a-852c-4d9d-81a3-7453efb640eb,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+33e3e7dd-203b-4404-b184-3bcfc607673a,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+3407cd48-08fc-4b2b-b36b-7dc1e7c8d542,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+35999322-9464-410d-ab73-92fb04be757f,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+368626e4-0264-449e-844e-f95d365256dd,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+36cec809-a7b5-41f8-baf0-61725f9134eb,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+36f0a32d-97ff-4493-967a-8518f0be9137,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+37b180f7-7e30-4336-a9b3-1e6d42428529,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+388c8911-fcab-4e9f-8efa-dc4d1299e162,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+38c0e5c3-4dba-48cd-ad03-b27c9228f4be,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+390c82a3-1227-4ad2-b028-15f6c4498ab3,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+394eacc8-1f60-44cc-a3f0-f1df94c05955,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+396c477f-261d-459f-9bee-71daf8c9f1b1,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+39b8d03a-0613-464c-89e5-e4edd1a9befd,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+39d26aac-cb09-4f6f-9013-9ce9dd15b850,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+39e2aece-d796-4fda-bde6-1912036135e9,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+39eaa264-5630-4f2f-9002-126a6bcd1030,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+3a740dac-0efb-42c3-abe4-5309d20899f4,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+3a9580a3-7f86-441c-bf3d-b5384fb5d05e,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+3aa7dd98-dc6d-4c82-95ae-4269275789db,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+3b0a51e9-7c1b-41ce-b8d6-3f262891cced,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+3bce69dc-9b33-4d94-9530-08f340718acc,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+3bd1a287-27fb-4166-8253-894a59ba0c6a,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+3bff6710-8afd-4eb0-95e4-e6b48c642971,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+3c530c6b-ff67-4460-ba0c-6fd22a92e863,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+3c6883b4-813c-4b0d-8a83-5c767c1cd8ed,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+3cbef394-2c78-495f-9de3-a00613947a73,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+3d3a3cc3-cd39-4448-8063-3d6921155ef9,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+3db35159-2a12-497d-910f-d66640216915,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+3e550da8-d196-46a4-97d9-5b62bbc6c3c5,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+3e90cfe0-5b71-4953-99f2-f897bfc58acb,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+3e910ea2-0bb9-459a-a31f-f7a7aa3e24bc,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+3f885ac8-ffab-4833-a7aa-5218c99ccd73,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+3fb09615-0caf-4b03-a79d-1c848bc87d5f,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+3fdb765c-a4b9-45eb-b63e-b09ccdf216b1,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+3feecab4-87f3-4981-9edc-fee47768e83e,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+40602ab3-0cee-412b-8e12-bb86a23ff3f1,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+411b13ea-d712-4c71-bbcd-ac6c04d67cb4,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+415b0db1-5250-43d8-92f8-4422dab651f3,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+4187625e-201d-4b5f-8dc2-0ca38c93312c,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+41d8ff4c-702e-4e36-a751-4581fc4d640f,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+4233ad8f-0fe5-4f1f-ab67-54ba02ad2f72,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+42472f90-92af-4125-b24e-54386972f10b,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+425cddf4-9a35-44db-a8d4-280ea6edb15b,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+427c2503-4c92-4367-bd87-69f2ab5868e5,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+42c3fba0-5987-40b9-a356-7434b5580f83,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+433ffadc-03f2-4e40-b791-6e635a676c65,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+4367ce34-618e-496c-b3b9-8cdb14cb5173,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+437512db-29a1-4234-9711-01d619c5aeed,"#N/A","#N/A",false,Phone,"#N/A",Low,"#N/A",On Hold,Sample Case 3: EDITED.,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+4476538f-d5bd-4638-8961-7585d3fcb05e,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+44c90684-9483-4382-984b-0082c732c487,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+44cfbe66-b854-480f-83a3-361a017aa5fe,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+44d3eb34-2701-463c-b0f5-685873246eaf,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+45104b96-4d44-407e-b3a2-c89d5988a48b,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+4525bd8a-5734-4f45-bbc6-1ea205d1adcf,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+4532b8ea-14fe-46cb-b6f5-f4b7c4d3bc98,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+45888812-c92c-4801-9619-d490452a2dbc,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+45c91047-68bc-4b38-bab9-2610edb0b66a,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+46324a94-5ef9-4f45-a80d-ae0b751c1605,"#N/A","#N/A",false,Phone,"#N/A",High,"#N/A",Escalated,Sample Case: Our Widgets have not been delivered.,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+4751d10f-0ced-4de4-8f3c-ae60fe0f2b1c,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+47a2e0d5-1282-44eb-a84f-c56c2a50c5a1,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+4830c275-c8f4-42cf-9739-d6c5eeb64b97,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+48635b11-607c-4381-944b-4018740fea0a,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+487a70c4-8d13-4e00-a16f-d06d058287c1,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+48ad7ff3-4f11-40af-a7f3-a509ce355441,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+494cdda5-8530-4963-afc6-a37955394708,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+49832b98-4ce1-437f-9832-0d86fdf29806,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+4a7c470d-5949-465f-bbe2-664f3864b0f6,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+4ac681d6-aa5f-4bef-a417-07e352a37315,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+4b214915-b458-4c3b-8f5b-580b6b86d4e2,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+4badea59-8156-46e5-8c7e-112bd24cfece,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+4c32fd0a-05ef-42df-8ee6-39a149a3adc7,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+4c3c289b-2e53-4e3a-b3cb-698785f7ec60,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+4c572b5d-f993-4c60-bbd2-78a0b12bad07,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+4c760c45-6f99-4d28-84e8-5d7b41a86dae,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+4c77bd33-ea18-4173-9be1-45c4ec14d41f,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+4c94b472-5e49-49a9-b948-19d17ed4abdb,"#N/A","#N/A",false,Phone,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+4c98d7e0-bfe2-4a1e-8e7b-e66dc25fed72,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+4cb437c5-d3b8-495c-8d10-18456a499c4b,"#N/A","#N/A",false,Phone,"#N/A",Low,"#N/A",On Hold,Sample Case 3: EDITED.,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+4cd16d5e-e915-4544-8478-91c03e578e38,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+4d2a687e-854c-4884-b6c3-4243947f3298,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+4da8dcf8-99e7-41df-9176-d0dd30203c62,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+5063d982-56d2-4820-ad36-6e960e256b01,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+50676cbb-fb66-4b12-b2f8-f56efadb9e1e,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+50817d92-3937-432c-a86b-3a1513f10e42,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+5091c900-b3d2-4371-aa86-1f8bad9ff00a,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+5140d393-b43f-4d8f-86f9-5a6f3c10af2e,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+5183304e-a47a-4987-82d5-ea468936df9e,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+51aab592-f6ad-4385-b872-3e426d047bcf,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+51d59e27-64ed-44ce-9d69-1e85e3f32a16,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+51f897f9-43ff-4a19-b3d4-7ee83d8a6e7d,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+536190c0-f2d6-4538-98aa-9df2291ff259,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+53e8eee2-95af-4a7d-9b20-4541fa3af087,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+54147598-77cb-453a-94db-694af9b3ca23,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+544f443b-7976-44d2-8a97-06078adbcdd3,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+546f8aa8-18f0-47eb-904c-e95534246d57,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+54aad896-dead-42bb-9eca-189495139f0f,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+54cfe9ab-fb2e-42a2-9d0d-4b9cfce00976,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+551c3442-62a1-4e6f-9bea-98f8006d1c5b,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+559ed284-171e-4386-bde3-04463e946705,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+55fc0e32-31c1-4fed-ac6f-c66e725704c4,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+5627e68b-fdb0-4f5b-ad29-949715619779,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+5631b092-f8a9-4259-bf7b-80d07cc39b04,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+56cb6baf-ad4c-4841-b880-a394ea484918,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+56cbc79b-2876-4163-9428-4313f837df75,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+5713490b-4059-4bee-8755-82dbb5b02bdd,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+5783c29e-e830-4dbd-afec-45d705a016a2,"#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",A,"#N/A"
+57864424-1491-4010-9554-edd4f2e666f1,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+57bf0d7d-fb51-4e0d-b6a5-34a26d049789,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+5819f242-3612-4a46-828a-cd8ad46bdcb2,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+582a04b6-46b4-4574-804a-bca446142a23,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+5873cd54-412b-42ec-a2a3-05ed399770b5,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+58e188fb-058b-45fa-b41e-5f2570b511c0,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+59d49f96-fae9-4767-bb40-4c30228c5ed4,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+5a209984-85d3-42ff-a944-ce12bfbdf157,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+5a37cf54-fb88-4864-aa05-704b1304d785,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+5a6e6df2-1d95-462a-8429-98337b7a2a17,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+5a9d0f95-0398-4159-8d26-cb252e55161b,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+5adf0718-c25e-4df5-85f2-d06773894da3,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+5ae4e195-5f6e-4527-b86b-0d8ca577bd48,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+5b596c8a-8764-4302-a1d3-6b2e1e0c9c2d,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+5bdf2e3c-319c-40db-a34a-9f8ff5bd43dc,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+5bf48ebb-4a4a-4ebb-9eab-cbd7a9d25796,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+5c5184ed-a859-4c24-8866-dc19f8c6b5e7,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+5c53ada9-3e97-4268-befc-23f0e12002b5,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+5de677c6-87ac-4dd3-826d-63288b074768,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+5df034a0-012b-4b88-a3dd-2737138cd015,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+5e42dcfd-4d39-40de-97be-1f7af5fb7e05,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+5e5763e9-638b-4562-ad8f-e4b3535f7b3c,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+5e593834-49bb-42b6-97f6-72044452dbbe,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+5fc24a38-9bc0-40b2-8960-95f9e5948a40,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+5fd03372-4da3-47ca-a23f-1ea8e20f5fdc,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+603424a6-2ac5-41ad-a278-b016a2d56323,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+608254d5-d5b1-4fa9-9ace-3867304ab1b9,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+61bce03b-3d4b-4189-a7b2-2055090040f6,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+6226dda6-5200-44d7-ab1d-6a5674b45412,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+62a6a42b-e2c1-4b6c-a825-f4210af1593e,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+63004555-9afd-4a0d-9ccc-eb99c40b04c2,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+63971af4-91a7-4e89-8b30-3c04e0c361dd,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+63d16ed4-9173-4006-8ea7-8f2c55ea8add,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+64d09e66-8f3e-49f7-8454-8bb3501c7950,"#N/A","#N/A",false,Phone,"#N/A",Low,"#N/A",On Hold,Sample Case 3: Cannot track our order.,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+65233108-8631-4041-a007-74f7e30f297a,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+657090c4-6254-4b5b-97be-6ad54baa7667,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+66823b45-f825-45b5-ba7f-a43e166d2b59,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+66838177-d22e-495a-9e96-54945c5d2ff4,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+66a1da91-6d20-4815-816e-f39d54b90ae8,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+66a743fb-790f-4310-be12-8c6d28c0d304,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+67283475-f129-48b7-b457-dc4c521e4a7b,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+67579c07-88fc-4b71-b535-968b9090fbf8,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+677973fd-0656-44fa-999b-88c032dbd28e,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+67a1a492-a4f8-47b3-8ced-0783a462dea5,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+6808f761-8776-4aac-a5e0-cad1957d56d3,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+681c729c-5fdd-4264-a075-3eedf82b2cf8,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+688300cf-77b5-4e1b-9391-b3e2f5af334d,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+6893db89-3a7e-4ba9-8040-01c75bc8fa7c,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+68c87469-d5bb-4f0c-b470-ea5d71ebf7de,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+68fdb3ff-3567-4ffe-af05-c981e93e3107,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+69a46b1a-08ae-45f5-9b81-404e89e1d13c,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+69adb468-de02-4b8b-a8d6-fbf9a6aaae0c,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+69fa9819-d8d1-4983-8b9d-d9846d90c87b,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+6a0719d4-9dd6-4de1-b309-ceec440e5deb,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+6a472068-55c6-46bd-bad9-cddbe79cba91,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+6af5c500-4e91-4e5c-8d12-1dd90c882d70,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+6b835fb9-e84f-4e84-bc2a-18fa3c17adcc,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+6ba11bd5-8744-4e1b-8442-1c7678ef3f7a,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+6ba72a1c-54e4-4277-9ac4-892ad7bac348,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+6bcd83fe-4edd-4ea0-a6fc-ab25e2069e2a,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+6c65ed6a-31a5-4d82-83ed-3917f5d3b410,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+6c76a934-6fec-4bff-83e4-205c220e5e7a,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+6cd88436-d0e6-435e-b331-26b59ee476af,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+6cf53820-9a5d-4918-bd57-fc4f4e890147,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+6d3da144-cd29-48e3-8c5e-6db082b6d223,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+6e206239-e3e8-4b75-8e23-8f18473b7040,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+6e22958b-a90d-4951-8dc8-84291f0364fe,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+6ea6e0f6-5f02-4308-8faa-aee31b854f13,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+6ea9dca5-8bd0-4670-86a6-ca51ae732166,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+6f69915f-3815-4e5c-8d48-9eafde292f7c,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+6fb42235-1a31-4861-ad02-082d2c38614c,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+7048f140-fcb2-4501-9a28-a06901662d02,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+70c0f793-1427-484f-b553-abf03ef4a91a,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+70c23180-108c-45d0-9fc5-5d19950fabb7,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+711a140c-c27e-45ec-b0fa-41b22280617a,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+715d7f8f-e16e-4943-b9ac-6752bd5c448a,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+7169eec4-afcc-420e-a28c-20d08823d5e5,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+71824a5f-b5da-4cf8-aa45-e1c1b500a178,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+71d73b59-aff0-400d-b694-85e2d99d33d7,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+72c978df-18c3-44f9-a19e-5255f2f9c328,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+73250422-6f66-4c07-8f2c-f0ba221d8211,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+732c30e3-7505-4105-a528-ea977781493b,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+736a9b65-7b54-49d2-bd29-8698b7c2acb3,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+737f0ebe-9741-4e9f-93d3-3c6720674651,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+73cdb42d-70d1-4730-a18b-d91050c05c19,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+74e5a0bb-855b-4bd3-b5d0-e98946ccba89,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+74e895db-a6d1-40b4-9e2a-8babfab7cf5e,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+755a28dd-22af-411c-a711-024e629239db,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+75943b0f-fca9-4daa-bdf7-91b353fe0ce3,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+75be81dd-44a2-4a6a-8e88-0316e908771d,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+76944e9c-8904-4abd-97aa-8be934e28ca2,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+76df181e-39f6-4a07-b1a4-931c9ab6dd3c,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+77a6db01-5bc3-4524-ad43-bc3d4f4f28ae,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+77b06eec-0ff5-4e20-93fc-94e4daa9dd97,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+77b29cb3-e345-4da8-bff5-ed1b05a95c8b,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+77b94b4e-5744-4194-834a-12932bd2510e,"#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+77dcbc4e-0879-4788-8239-0af1f7a3b34d,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+7894642c-45cb-4654-b197-a1c842143b22,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+78eae64f-b753-4cd3-a3d8-7b994d367706,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+791d5d58-11ca-48d5-8087-d8c427caec46,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+79e86837-8623-4c80-b6c9-55155bec0bd9,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+7b71885b-5b7c-4ee0-8101-31e6fe34c669,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+7bbcd543-4c77-450b-9854-0eb96738818b,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+7be52615-3547-4a6b-a80f-a2143646c8df,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+7c20dcd7-29fc-4a4a-be91-d679e98d5d7f,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+7cc03366-ea40-4ea9-9116-c9a5cb557c55,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+7cf29657-0567-4e51-bfab-2a923fea9a3b,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+7d75c532-6b28-47a0-ade4-a6f974bc7b2e,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+7d82acda-8801-476a-af86-ca57cce3a761,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+7d9ab490-607b-4d2d-9760-4f1d2f0f805d,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+7d9e8b86-f38c-4fdc-a475-7e596bc17850,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+7e263638-a534-459c-b92d-f1a9ee7b7f70,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+7e7170d4-7f7a-4127-b7ee-96241dc08fe6,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+7e7efdff-489f-4c06-873e-8a4992682f3b,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+7ec1d9ab-9fc0-4e5e-8e0b-2733470543f5,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+7f4f43ca-3faa-401f-85f7-accb5e8904d0,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+7f715d9a-ed33-4d83-8e18-ec7f7b257972,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+7fc1fc15-cea4-45fe-91f3-294e2a52c581,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+7fc80d76-24be-4552-8ae3-d007f6cceb93,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+804d1cc3-3211-4bff-9703-a70569b4b5dc,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+805912df-c5f5-484c-ba44-29e672adc181,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+808de11c-d766-4d5d-a908-5407e537a887,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+8131fbbf-b960-4fe0-976e-fb7668cf89a6,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+816b6387-5803-4115-8ba5-9ec80aba1e13,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+81a0a0c5-b14a-46fb-8650-7255bc144092,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+81b86596-ab68-401f-83a6-908a2869633b,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+8233aac3-582c-4afb-b665-2f3a6a74d770,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+82ed3057-d9d5-4229-8bcd-e145ef1cca4c,"#N/A","#N/A",false,Phone,"#N/A",Low,"#N/A",On Hold,Sample Case 3: EDITED.,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+82f0aab5-c99b-4f7d-886b-5779fcb5deed,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+82f30d71-e77e-481c-a38c-cdf409b80369,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+832151ed-a810-4711-afdf-9e3de81a3d35,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+832b0f65-fce0-4f4a-be9b-f534d5b479a9,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+833c1f59-1d87-4e7f-af77-cd82636ef7a7,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+83645267-44df-4470-b923-f9de1cc1cfb2,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+83a6361c-92a4-4800-bd9b-49d4710dfe97,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+83f42088-916f-479e-bbbe-109ff42d4fbb,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+83f46dde-96c8-4158-a936-10ec8548aaf4,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+8503a584-5608-448c-9110-43472e25bfd3,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+851b9450-8a03-4d7f-be89-888bf2a0731b,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+85aa91f7-be9d-49bd-9994-97c4acf13ec8,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+85d32c20-3cd5-4897-a177-54e8d00ae574,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+85e01c53-b115-45b3-92eb-d3ab07f8ff84,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+862fab3a-3a64-4140-8ff0-fa4e577cd30b,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+864683ba-8b03-4728-8053-11b488bc1851,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+86df3eed-16b3-46b5-bcad-45fcca331c80,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+86e06d3b-012d-492a-b4ca-2222b735c888,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+878455ed-e5e0-44c6-9307-c3aa12b51880,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+8884752d-47ff-42a7-a24b-3f28dd4b08d0,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+889b2665-15cf-4c30-a8e5-e5ec8c73dee7,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+8a08fab8-860d-4489-aacc-8fdc97b121af,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+8a9208e2-8979-49ef-a392-727f24303b7d,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+8af757d6-0a13-4e83-8e10-9784370e5d6f,"#N/A","#N/A",false,Phone,"#N/A",High,"#N/A",Escalated,Sample Case: Our Widgets have not been delivered.,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+8b78fc5a-9aa1-4369-9f14-cdfc79922162,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+8c06c901-527e-4d1e-8ac1-3c62c7003be3,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+8c12c7da-b7d8-4026-a42e-b83646d51b6a,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+8c9d4577-597f-4872-b517-217c1b84fbfc,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+8ca50e17-b9c3-452c-9c62-7e80e77059f3,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+8cf7f805-0a1b-48c8-9f11-20c3a7c7d58c,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+8d5c52e9-8cd3-4f19-a0d8-770cbd803eb1,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+8d6ee4bd-0ad1-4ed6-a149-3d615d1e0241,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+8dada4d8-eec6-402d-8499-7b725e2bebb5,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+8e9862fe-31fa-4185-a41f-eddf628e2315,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+8ffcdd80-d313-42f5-8021-6d99996182ff,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+9029a789-e775-4e6f-9d27-8a3889fd9306,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+90ab80df-ae25-4bd3-9a9b-24b5e57f07a8,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+90c70414-3d16-4b56-be78-fdd5fc6566c6,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+918539bf-fadd-475a-bcb4-03bede95549c,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+91e2bd43-e68a-43ef-bc9c-5873d4900910,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+92406bcf-38fa-41e4-95c4-4c185871b2c9,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+92b17c0c-037a-47b8-bbe9-f8cb77b77068,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+92fbd5eb-635e-4dc5-95fd-37e5b6e4e639,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+93652d56-0596-4cc3-ade4-da1fb26b53d1,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+93ce3b56-1d51-42b3-b025-499e20b8e96b,"#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",New,This Sample test tested verified,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+9492f556-6750-4e23-ad1a-4c714b2c2b55,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+956222a2-077b-4a09-a415-ce60519a9cee,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+963cb9df-b1a7-4076-86c8-cc7bc0d21768,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+96b88517-b43a-40b4-accc-cf5953f69dd6,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+975efd4e-992c-40b2-9550-1d34d042a3d1,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+97f18bd4-ebd2-460c-9260-a9d6e0830b5a,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+9805b0a1-1e26-45ab-ac39-a8a5b2aad23e,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+9830eafc-df79-42d6-b753-f5e03c3e9967,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+98417fbc-1ca0-4680-9f2e-35a4c28d29d3,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+98e88535-ac9e-4fe7-864a-f449e7341566,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+99a54ceb-8edb-4ef5-86be-a9f48b127309,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+99a96623-375f-4b4d-ae9b-a702b46c52e1,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+99e6f2ea-2004-46ef-b7f0-fb8259cfc780,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+99f04169-175b-44a5-8774-409d6fdcffa4,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+99f65a11-dd1e-498a-baac-4c1b8a683a6f,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+9a22bbd5-6d46-4a0a-a4eb-84d54af009a2,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+9ae851e3-eae1-4ead-978c-fc9375324374,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+9b193ce4-718d-40ee-a3cf-30152babb422,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+9b1dd6af-c54a-4e9a-b100-2fe4f2b558e3,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+9b2316c6-2e32-4966-9511-fb21c5976e6f,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+9b7c3653-77e6-477c-99db-090771e179ae,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+9baea41e-936e-4c87-bec3-3e22245214fc,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+9bdb10ab-5c85-4aa1-8ffa-b893bc6ed872,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+9e1104ef-989a-48fa-bba9-360fd00abfae,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+9e3e391b-3093-41fa-9b31-27f5ea474f93,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+9f14f79f-61c8-4598-b8e3-0c6fc9bfbe39,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+9f89f9ac-35a4-4284-a20b-10c9d972debf,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+a034482f-3fb6-4d30-a1ff-5e63be6caa81,"#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",On Hold,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Problem
+a0418a8f-2c83-49ce-9ead-9065c7b0d6cd,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+a06dd088-5041-419a-b18a-c02c26dab566,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+a090e72c-bf26-459b-b1fb-ee23e510bf3e,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+a0b9b8eb-7404-44dc-b999-f9f976d372f2,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+a0d407f6-a652-41ad-9296-c1bf93cdd77e,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+a1125545-d677-4c32-a3fc-77569d5300ed,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+a1795f4a-781f-406b-bdc9-1cc3744ab1d9,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+a2139b0a-d0b0-4808-8626-fc02088483f3,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+a27731e7-8176-4476-a44f-8ec99eec1467,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+a32a1d7f-465d-41e9-b9c8-b6b961a04ee2,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+a39e4618-86fd-42f8-b914-bf7ec967d35f,"#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",On Hold,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Problem
+a3c69c15-6275-4029-8942-fe70d0ae282f,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+a4bea460-3524-41f0-83c3-1c3008711f05,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+a4cc28e1-e0c5-4e6b-96e5-ce968f5e6223,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+a5155aa7-cf17-47e4-8e5b-834b90d83574,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+a5bf8977-8793-4757-a6e7-23cc4d3a793c,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+a7543518-2f85-4844-9c7c-c8c1fc05c105,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+a7d56551-8daa-40fa-b518-e5e423da368f,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+a8d6e1ab-fa87-4f11-b82c-881d99e44815,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+a8f4f1a8-290a-405d-af22-efaa7af270c5,"#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+a9816626-23f3-42d1-8d99-3d48d29d5bf2,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+aa27ab69-2d53-48d3-8c88-79e39fb7441a,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+aa30b538-c532-4b8a-b7b6-fab8c56783be,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+aa725336-be4a-4a96-a4ce-1dcbf2623298,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+ab93a73f-9923-4543-a546-c9084363a581,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+abba1879-3acd-4db8-acc1-bdd1090f66e2,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+abcd42f4-b4fe-40dc-ba9c-0b793419c5d8,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+ac92fd8e-7bba-4010-951a-8e3692699bc9,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+ad2c588d-5a70-4ced-8bba-d57c2e9eb297,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+ad5dfac3-ea62-435c-b315-4c8b354493a7,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+ad8e283f-e69d-451d-87d3-faf7581f4e26,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+ada7c8fb-9c77-4240-b7e0-cc2add11ba3d,"#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+ae691ef8-0dd9-4610-a8cf-3b506e73c567,"#N/A","#N/A",false,Phone,"#N/A",High,"#N/A",Escalated,Sample Case: Our Widgets have not been delivered.,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+aed5d566-a12a-4195-be50-5bc300df5605,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+af836f9d-01c2-4b38-9d12-55dc6532086d,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+afb4d1af-98c3-4583-ae99-43d0ef8d4fd2,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+afe4e533-2205-4684-a37e-9b4b6cd467cc,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+b00af199-5cf5-4b9d-b1de-e3492dfc3726,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+b060440c-bc4d-40fc-af35-9b1592b110f9,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+b124dfb3-9fc6-4047-a5b9-30f2e6bd8f9e,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+b1253f02-daaa-4efb-9f54-59aefdc389e2,"#N/A","#N/A",false,Phone,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+b1320956-310a-4788-a998-cbee8d43d4b8,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+b2488ac2-f7fb-4d78-aca3-503ef7698ab6,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+b27ddcc2-9219-48ee-8dc8-778aa486b80f,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+b2ddfb85-7a16-4a1c-8736-0fcef822ee03,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+b355c4ea-9691-48ae-bb90-179171b05cc5,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+b369bdb1-4a43-48c5-8632-fd0ff62b69b0,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+b3788235-bcd2-45b6-81e0-7db89ff9d883,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+b40ed3e0-1570-43db-bc07-b533a5fe51f5,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+b45c6ece-d0bf-4ff4-bf4e-eff38c7118e3,"#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+b4ceefa2-2a7c-4d9a-b698-a2c4ed4e03b4,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+b4d45db5-0515-46d6-b2bb-8df78b0bda80,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+b4ee9db7-3ca2-48b9-af06-09056a8961fd,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+b5770a4e-a4f6-4232-8282-819a766cada1,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+b66a2ff5-0575-40a2-9818-184277905567,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+b6720e2b-e0c9-47cd-8b88-0522109bc634,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+b691443e-0e70-448d-878f-c77acf18c075,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+b83c0720-ff69-41a8-b9bb-eafb05515fb7,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+b86f6d1f-6147-4725-9d78-1223b05c0458,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+b932729b-6ab9-4350-8d8a-bc9b5ab99106,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+b9605764-4582-459f-ae4b-c987eebb95d9,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+b9b114a7-7db4-4f95-ac99-ae8640c64ae5,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+b9c0101e-0fb3-41f2-be8d-42e5b85e240c,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+ba0e5aeb-c7a8-4ee6-b1b4-a804a9539309,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+ba92edf1-344b-453b-91ba-1e25bf907e2b,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+bac6a1e0-374e-4f03-876f-36b7be84e37a,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+bb0dc3d0-d3e6-4499-9652-2fafec6c60a7,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+bb6b9309-2f7c-4a93-9bb8-90c717ecb776,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+bb74ad77-f380-4cd2-9d37-26eb0670ca41,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+bbf4b531-2ba1-4639-88a4-ad99dfc24cc0,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+bcc291ee-83c1-4ad8-881c-e646c3067d42,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+bcc5f40a-6e42-4089-b49e-05e115497fd0,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+bd23f818-17af-463c-966c-6ab1af7490e7,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+bd445a40-765a-4d16-b434-25e75913ee52,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+bd5b9cda-d40e-45fb-ab32-70eb470335d3,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+bd6c6a9d-e3ee-47e2-98ed-2b3dea51f9c7,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+bd8ce506-1de9-4a15-838b-cabe57399766,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+bdc14cd3-b106-42e6-bea8-295e4ea68ff8,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+bddea504-8b08-4080-a19e-a8cc92d8c5b5,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+bde62a4e-2678-4741-b13a-cdc9a1c8c7e3,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+bf4865a8-cb2c-495e-bc64-66a84cbcf5f3,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+bf8079bf-1392-4521-a178-87650e60fa55,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+bf8cebdf-8e53-4563-b071-b6a2337b5430,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+bf8ef2ac-d0b3-4601-bbd6-439be952fbee,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+c008ac40-18c7-47f9-9b86-1a1ca0b26b41,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+c014b8f1-3cea-43d2-915f-3d0e21962cd9,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+c093727c-4aca-4d41-8ffa-6824a6ff7cd8,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+c0a4a3ec-963f-45a2-afb3-1ddb32a76739,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+c10f2247-4565-48b3-b91f-161d4099e766,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+c13b89c0-aeeb-44ec-8aca-30035e0cc15a,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+c13bc57e-beb3-4d65-8543-469f78d77fd5,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+c1aa0b47-2596-4547-bda9-5689ae016a37,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+c1e9b2ea-fdcb-430f-b22f-2195038e010e,"#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+c2078356-4dc6-4cd3-9413-05500d1e143e,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+c24695e9-7ad2-4636-a2d5-15c3d9a4af06,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+c2862555-a782-4819-8f1c-c5976dc792cf,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+c2bd82fe-b32b-43a5-9275-25d947b5f2a4,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+c2f47043-829e-4ccc-a63e-d1e58fa1e024,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+c32a7bee-f8a0-4d15-8610-fa493f77c29a,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+c33bb51e-e630-4b6b-8153-f05e60fb23dd,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+c3418b38-1480-470f-8c19-3c19af983cb2,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+c3d60a1c-0ac7-489c-bdf6-d1fe3957b947,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+c412c672-b285-4e1c-bbb4-1f45cdb8a127,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+c476d4ed-76fe-4e8f-844b-f02a72f44ae6,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+c4904b45-2d35-4ea3-aff0-4241166e336f,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+c4a3f79d-b6b5-49de-99f1-2e805c68f3e8,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+c4df2b28-5c9e-44b4-ac02-a525c19edb4a,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+c52bd183-cfed-4067-be4e-b7b859c90489,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+c631df35-2460-4314-a44f-249f233a69d1,"#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",On Hold,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Problem
+c6aa3f9c-3e1f-4078-b777-01c8a448d3e1,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+c6d997ab-54d1-4dfb-883f-36a5b1d4ead8,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+c6f58fab-5752-4c7e-b727-57b98bcd3d4b,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+c726468b-2772-4e92-83e4-2b69057c24e3,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+c791a84c-cac9-4dbd-a0a5-6b6e09092c9e,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+c81dad16-44be-4aaf-ab78-c3c69657fe5b,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+c8c47311-357b-42e0-9c61-7d644b1e21f8,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+c96eb11d-9eef-468e-926a-2ac9a1b5bc52,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+c9904475-9bb7-466f-8ad0-e88a47e0b381,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Power generation below stated level,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+c99d0cb8-188c-4ef7-9a10-b1aa57632e60,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+ca77401e-1c8a-405a-a877-1e2a9c036775,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+ca7a1334-100b-4974-a471-4f77b62ddcda,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+ca85fcb3-6b83-43cb-a39c-d7594b78fd04,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+ca93a7ad-01e0-45bb-a976-235f737b7f42,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+cae5f641-9248-4b83-a17a-4ce29d704861,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+cb1f0bc5-f986-4d04-8d19-4dde27545737,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+cb6fa7e0-49b9-4a33-95ac-75768810b25a,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+cc2324a1-c19a-4cd9-aa1d-d02edb4c480e,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+cc464f79-c44f-4d61-826d-0efa1bda5958,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+cdb24047-30d4-412b-8a2e-5abbcaed12b7,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+cead059a-ef0c-4ebf-a91d-f92adbdf7616,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+cee59363-74d4-4afc-bfc4-ef038c07e2c2,"#N/A","#N/A",false,Phone,"#N/A",High,Instructions not clear,New,Sample Case 2: The widgets we received are the wrong size.,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+cee8f754-b039-4141-9829-09b700aa77d0,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+ceef971c-3cff-4424-8265-18086209514c,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+cfe2c4cc-ad7c-42e9-9266-ec2a9a628a2f,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+cfe96381-c2fd-4850-813c-e17431288957,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+d01f9edf-46b9-4368-af03-2bd7ac9b0746,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+d0218247-c7c0-4457-a420-93ae5d810a8a,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+d05c99b1-1d2f-4572-84c7-8f82aa75cb1e,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+d0a6e22b-2aa1-4e95-9384-d73e7ac9a0f4,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+d0d91b84-d327-46b2-8a76-ece393528eb7,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+d1132cfb-8e7b-4559-8c08-b75d507bbd30,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+d15c0af5-0e40-45fe-b855-67eb67a5af47,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+d160a80c-3118-40e3-819f-33dbf541dd9e,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+d1aa8d6f-e171-41a8-bd50-c3d7f509a19a,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+d1f6b5a0-62c9-44bd-867e-211f7f66658e,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+d2f518c6-0450-4022-b0f9-d89e03a8800f,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+d3206cc5-d79e-47aa-998f-f8b0f6d21707,"#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+d37d74bb-35bd-45cc-a634-9b84dd581a47,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+d38512a8-68af-4fcc-9b13-72a4eeebc90a,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+d38b0926-b9aa-40c9-b126-ce7a26865b2c,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+d391b2fe-b0f5-453d-a0a6-6483e0775dc1,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+d3be1624-616d-4b41-80e9-f79de1141aa5,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+d3d393e9-736d-4129-bd0f-f77418931ac1,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+d3d67909-fbac-46cf-84e5-49ad824c17fc,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+d3dff876-5a85-4470-96d7-2614b21ebc29,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+d3e54fd3-7326-4cbf-a090-e18090e40777,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+d3e7a757-8675-4c24-80e5-62056865f942,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+d42620b5-26e7-426c-80ef-87d4dc043086,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+d4410357-6c45-4711-a7f1-7cc71b4ba921,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+d4987262-5693-4ac9-8fe6-19c44dcd5355,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+d4beaed5-f35e-4f9a-ba1d-43d3e096de15,"#N/A","#N/A",false,Phone,"#N/A",High,Instructions not clear,New,Sample Case 2: The widgets we received are the wrong size.,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+d4f39f16-9ffa-4bfb-892f-6c33fe20b505,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+d4fb3925-974a-461b-91a2-76bc399295db,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+d503085b-e5ad-49f4-ae6a-4e14b365f9e3,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+d534ef0d-a48b-4113-9fdf-7d13b9d3e53d,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+d5a95295-7975-4e86-bbbd-f08df76db1a7,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+d5fe2644-4142-4747-91d1-01621bcb494f,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+d65de704-5894-4e43-a6ae-dd961341c4aa,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+d6dc7d3c-854b-4e68-8f55-661a7f3c8275,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+d6efb4a0-05c1-4b5e-9dd8-9b8d17e9ba51,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+d6fc857e-fc63-4efa-acc3-d16e3596fbb7,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+d78e00af-d214-4cde-858c-551e9f196756,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+d7ec6e07-f609-47d4-8a18-09f8fb07fd59,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+d7f08325-cc8c-4b97-9fd2-c42855f75132,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+d7f41cce-98e4-4393-b4cd-0655df8a9184,"#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+d8042de8-aa9f-40aa-91ad-5c60fdbbbf2a,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Complexity,Closed,Shutting down of generator,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+d80b6b8e-6ab3-4cf5-8df2-822939d72890,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+d8588c87-1833-4bc7-af9c-8ae0f0f876a1,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+d8daacfa-7746-48f9-8c13-5f0bf0748ac3,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+d8fd7412-8e24-4f0d-a49c-ac428f49ce94,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+d9aa7ba1-df1a-4e31-a08f-22148cb3ff7e,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+d9ab9b98-bec9-47cb-814a-f5168ee24144,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+d9c23439-64ca-41da-a465-3e534f228b6e,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+d9ec2066-9f9e-4676-baec-75fb8ec2c779,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+da103393-6157-42fe-80c3-a37f90c1343e,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+da45e30a-09d6-4a33-bd6e-4022ce46b46a,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+da5e74da-1c99-49bf-904f-94e8b6748a3e,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+da664562-52c5-44aa-a30d-c517da358be8,"#N/A","#N/A",false,Phone,"#N/A",High,Instructions not clear,New,Sample Case 2: The widgets we received are the wrong size.,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+da770975-c4c6-4bf8-9267-dda3fa19e1d9,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+da7dfdfc-9d82-4be3-8d14-2c848f1b6a9f,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+da9a4d24-d840-48cd-a4d8-317a85c49ca4,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+db13322c-2460-436d-984f-2112899bd384,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+db4d5a2d-5be3-4ef1-84ca-62dc0475abb5,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+dbc2526d-10ed-436c-b417-48e0fb34f977,"#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+dc0182b1-1d9e-4110-8077-5f37d3b90d84,"#N/A","#N/A",false,Phone,"#N/A",High,"#N/A",Escalated,Sample Case: Our Widgets have not been delivered.,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+dc1f882a-04d9-447b-b7ac-7989882fa524,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+dc5a7a55-dec1-46ee-a64a-64a3432ba797,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+dc600028-8e05-4168-961b-9e28562296fa,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+dccdfa12-d814-435c-b3a7-371ebcd6640f,"#N/A","#N/A",false,Phone,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+dd209062-17fb-4f22-8b41-dc2c06579ccb,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+dda76011-f689-4ad3-a6c6-0a75cff0f826,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+de4373d1-dd4e-4c03-9faf-0ec91725c090,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+de5a9869-379d-4bab-bd2e-36e6f7e213fe,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+deda0a35-0d27-4e3e-b29d-a7fda52852a7,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+df8b7738-880f-42e6-92a4-6c35373789bc,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+dff53c3b-7639-4a97-b396-603f63b2c251,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+e026ae55-c53b-4eec-a758-d8a2824ba16e,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+e08ee8bf-1049-4b66-bfc4-32c44fc760c9,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+e0c137dd-4439-44ec-a4b4-799e90ab4a75,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+e0d138ed-4156-4cb5-853e-89df3a1a8617,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+e10b8c38-8671-4575-a4b3-4b225e81cd26,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+e14a1646-f74c-43c7-a850-fdd13396afa9,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+e2852280-aae0-4d90-acf8-7af784327732,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+e30faef0-9930-48e6-be06-e50f9c2fe295,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+e351e8a1-945d-4035-9503-a6b38bcd620f,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+e353636c-9610-4c0c-a5a8-17d1106b71f0,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+e3cecf92-0380-4208-a625-7e768d19f6d1,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+e46dad16-a30f-452c-9a37-fe2ddd566e98,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+e4c98aad-6824-480e-9f7a-6d5502ade239,"#N/A","#N/A",false,Phone,"#N/A",High,Other,Closed,Electric surge damaging adjacent equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+e5125a18-7ae5-4514-9890-6682680dbdfe,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+e53005c5-1501-4ffb-ab40-1dcd7c77e641,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+e623583d-b600-44e2-a6ae-e9ffbf3c4a03,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+e640de4f-7efd-463c-be5b-014237fe3cbb,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+e6623247-1525-42ba-8174-5c3ce18b501c,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+e674a655-c67d-4e87-b119-bbc810c3e1d9,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+e692d9a7-1cc3-44da-8405-3221fbcf0ae4,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+e7d63672-3196-4564-b58e-524298a915d5,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+e838c542-3814-4a44-9aef-36cd563608c2,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+e854a3de-7353-48dc-bfa7-418ef7804b2c,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+e8b06cf2-3255-4a6a-92ed-4e0d8d89ce51,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+ea28566f-4fdd-420c-a98e-1faf25835d2a,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+ea6c36d3-eae1-4e3f-bd3e-e0d2214af010,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+eb4c4892-2d58-4358-9c66-8c744bc58f0d,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+eb8ec721-52ed-4f83-b9de-c21413bb1990,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Mechanical maintenance guidelines for generator misleading,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+ec044927-21b2-48c2-850c-cfb0b38b8c1f,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+ec5ae463-4a72-41b2-bf03-c22e9eaccc1e,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+ec5e232f-ebea-4b63-9bb6-1d9db9fa5b61,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+ec9dc49b-c0b2-4ae7-a4a4-336f666ef391,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+ecb0fcb4-53c5-43ca-94cc-0e7f3bac349c,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+ecbc2176-d16d-4969-ad0f-c28a4afb8c27,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+ed2c09b5-6a0e-46b1-b3ee-42644fa9de02,"#N/A","#N/A",false,Phone,"#N/A",Medium,Performance,Closed,Electrical circuit malfunctioning,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+ed5eded6-1c0d-432f-8c2e-befc6e0c1f2f,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+edd9d9b2-5037-4003-a7bb-dfa7906bd680,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+ee0a8ac4-3c8a-455d-a97a-3ce7211a4729,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Starting up generator consumes excessive power,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+ee4b1dfa-0d98-4b91-a4e1-a84e4563a8d6,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+eec78d21-00e5-494e-b61c-1b00e9e97dba,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+ef42b7ca-78a9-41e9-ae08-c47164f63030,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+ef9c90b9-cfa1-4a91-b6aa-9e56a673e4e7,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+f0263065-64fc-4cb8-9a86-abc995cefec7,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+f121f5fd-cdba-47f4-b14e-b307fa5f7190,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+f1390dcf-d321-4175-83cf-f8d4343e0c5f,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+f18c980c-00d1-496d-858f-035bb7bc326b,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+f32e92bb-244b-4015-9908-a65fb022d036,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+f39d374f-c8ce-40c2-aaac-361d4ba3163d,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+f3aa9a62-fe0f-4687-b08b-4c064fb84ba5,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+f3ee46ca-bf08-43c7-b594-30e52c6b8f1a,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+f4fb87e5-df11-4056-beed-3ed75d3b2767,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+f576216e-759b-40ff-9a1a-2a02f69a8108,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Delay in installation; spare parts unavailable,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+f5bdeb8a-d376-48c0-a700-8f4d23b1c632,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+f639d53d-2026-4ab0-ad9e-a9e29672f792,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+f64cd483-9509-435d-8fe3-c61b4ca9e240,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+f6e58e59-5083-4b73-afc2-90992b63a9fe,"#N/A","#N/A",false,Phone,"#N/A",High,Equipment Complexity,Closed,Starting generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+f70905d0-e0db-49de-989c-8d4e78844d13,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Repeated motor breakdown while shutting off,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+f72a4702-76c1-4757-8cff-b1ab0efc07f9,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+f769af85-c016-403a-85d7-bbd61ca0c32a,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,Closed,Easy installation process,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+f8148d75-5a97-45b3-a2d7-c2b186367946,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+f89ccdc0-299d-4329-a716-c9857cec6682,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Complexity,Closed,Cannot start generator after electrical failure,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+f8a7fc3d-0ae2-4685-8650-2d69ee206f98,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+f8c1e403-504e-4396-a561-18745a51c06b,"#N/A","#N/A",false,Web,"#N/A",Medium,Performance,Closed,Signal panel on GC5060 blinks intermittently,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+f8d2b0bd-35ce-4c8e-a40e-3f7d3cc74ada,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
+f8e17e6e-9887-4aa4-9499-3bd8390f66c8,"#N/A","#N/A",false,Web,"#N/A",Low,Installation,New,Seeking guidance on electrical wiring installation for GC5060,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+fa4d1d7a-40ab-4502-946f-5713bdc996f0,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+facbab35-66e7-4031-bc9a-53923a59ade3,"#N/A","#N/A",false,Phone,"#N/A",High,Performance,Closed,Performance inadequate for second consecutive week,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+faf7aa4a-6aa1-4fc7-a998-81e3d90282b1,"#N/A","#N/A",false,Phone,"#N/A",High,Installation,Closed,Generator GC3060 platform structure is weakening,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+fb2c79b4-5d10-46d4-ae12-efa2e41ac2b9,"#N/A","#N/A",false,Phone,"#N/A",Medium,Equipment Design,Closed,Motor design hindering performance,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electrical
+fbb0348f-c22d-4c49-aa93-af29207c0306,"#N/A","#N/A",false,Web,"#N/A",Medium,Breakdown,Closed,Frequent mechanical breakdown,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+fc262a03-4f5a-4e24-adf2-4427234a6cea,"#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",Escalated,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+fd160087-b572-4722-a473-fe84e5b6535a,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+fdf3cacb-8054-4be0-90ab-88bf1ad67983,"#N/A","#N/A",false,Web,"#N/A",High,Equipment Design,Closed,Structural failure of generator base,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+fdf78d0e-aa68-44a9-aa13-37a29bbb9147,"#N/A","#N/A",false,Web,"#N/A",Low,Feedback,Closed,Customer service for portable generators needs beefing up,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+fe7212ba-3212-46fb-96a6-c5140191c000,"#N/A","#N/A",false,Web,"#N/A",Low,Equipment Design,New,Design issue with mechanical rotor,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mechanical
+fee43920-ccca-4288-8b02-efaeaf202638,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+ff0269ad-4fa4-4bc5-925d-a23a121d3f50,"#N/A","#N/A",false,Phone,"#N/A",Medium,Breakdown,Closed,Structural breakdown of rotor assembly,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Structural
+ff247b6d-0c10-4656-95ae-cc7191488ed2,"#N/A","#N/A",false,Phone,"#N/A",Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+ff404dd7-be05-46b8-b61b-cd23871be8b9,"#N/A","#N/A",false,Phone,"#N/A",Medium,Other,Closed,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other
+fffa9394-35a1-4028-a7d6-402100c1b64c,"#N/A","#N/A",false,Web,"#N/A",Medium,Equipment Design,Closed,Electronic panel fitting loose,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Electronic
